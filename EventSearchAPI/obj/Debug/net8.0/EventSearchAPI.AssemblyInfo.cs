@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventSearchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be27386c7aa24a10d74dd4c59cc444aab20fd6f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89302f30332a3fb99bc4aced609ea69f9257f38c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventSearchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventSearchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

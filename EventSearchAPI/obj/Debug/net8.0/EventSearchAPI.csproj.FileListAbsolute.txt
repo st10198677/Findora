@@ -43,3 +43,4 @@ C:\Users\sladl\source\repos\EventSearchAPI\EventSearchAPI\obj\Debug\net8.0\refin
 C:\Users\sladl\source\repos\EventSearchAPI\EventSearchAPI\obj\Debug\net8.0\EventSearchAPI.pdb
 C:\Users\sladl\source\repos\EventSearchAPI\EventSearchAPI\obj\Debug\net8.0\EventSearchAPI.genruntimeconfig.cache
 C:\Users\sladl\source\repos\EventSearchAPI\EventSearchAPI\obj\Debug\net8.0\ref\EventSearchAPI.dll
+C:\Users\sladl\source\repos\EventSearchAPI\EventSearchAPI\obj\Debug\net8.0\EventSearchAPI.sourcelink.json
